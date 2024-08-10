@@ -1,5 +1,5 @@
 ## This file contain some problems:
-Problem 1: Grocery Shopping List
+Problem 1: Grocery Shopping
 Problem No: 2   Student Grades
 Problem no 3   Word Frequency Counter
 Problem 4: Password Strength Checker
